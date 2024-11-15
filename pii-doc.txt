@@ -1,0 +1,21 @@
+Employee Contact Information
+---------------------------
+
+1. HR Department
+   SSN: 123-45-6789
+   Email: hr.admin@company.test
+
+2. IT Support
+   SSN: 987-65-4321
+   Email: it.support@company.test
+
+3. Accounting
+   SSN: 456-78-9012
+   Email: accounts@company.test
+
+/* Legacy Records */
+// SSN: 234-56-7890
+// Email: legacy.contact@company.test
+
+Last Updated: November 2024
+Department Contact: dept123@company.test
